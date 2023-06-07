@@ -1,29 +1,3 @@
-Exp.No : 05 
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-&emsp;
-Date : 17.05.2023
-<br>
-
 # Multiple server with infinite capacity - (M/M/c):(oo/FIFO)
 ## Aim :
 To find 
@@ -52,10 +26,7 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 ![](2.png)
 
 ## Program
-```python 
-developed by : kaushika A
-reg no : 212221230048
-```
+
 ```python
 import math
 
